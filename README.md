@@ -1,5 +1,7 @@
 # Projet RNG
 
+>[NOTE] Port du projet depuis la forge logicielle de l'UBS 
+
 Projet d'étude et d'implémentation de générateurs de nombres pseudo-aléatoires (PRNG), incluant des tests statistiques et des attaques cryptographiques associées.
 
 ## Générateurs
